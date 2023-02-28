@@ -18,8 +18,8 @@
 * To exit I pressed: `Ctrl + x + <enter>` to exit
 ## Run the tests again
 ![Image](runTest2.png)
-* For this step I pressed the following keys: <up><up><up><enter> to get the `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` command from bash history to complile all the files
-* I then pressed the following keys: <up><up><up><enter> to get the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore TestListExamples` command from bash history to run the JUnit tester
+* For this step I pressed the following keys: `<up><up><up><enter>` to get the `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` command from bash history to complile all the files
+* I then pressed the following keys: `<up><up><up><enter>` to get the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore TestListExamples` command from bash history to run the JUnit tester
 * Now the code has passed the tester
 ## Commit and push the change to Github
 ![Image](commitandpush.png)
